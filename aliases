@@ -1,0 +1,11 @@
+e.=explorer .
+gl=git log --oneline --all --graph --decorate  $*
+ls=ls --color $*
+pwd=cd
+clear=cls
+vi=vim $*
+rdos=D:\projects\rdos\rdos.py $*
+cd=cd /D $*
+projects=D:\projects
+cheat=vim D:\cmder\config\aliases
+reload=doskey /macrofile="%CMDER_ROOT%\config\aliases
