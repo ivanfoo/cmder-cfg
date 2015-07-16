@@ -5,7 +5,9 @@ pwd=cd
 clear=cls
 vi=vim $*
 rdos=D:\projects\rdos\rdos.py $*
+cheater=D:\projects\mstsc-cheater\cheater-runner.py $*
 cd=cd /D $*
 projects=D:\projects
 cheat=vim D:\cmder\config\aliases
-reload=doskey /macrofile="%CMDER_ROOT%\config\aliases
+aliases=cat D:\cmder\config\aliases
+docheat=doskey /macrofile="%CMDER_ROOT%\config\aliases
