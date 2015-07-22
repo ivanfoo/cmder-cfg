@@ -8,6 +8,7 @@ rdos=D:\projects\rdos\rdos.py $*
 cheater=D:\projects\mstsc-cheater\cheater-runner.py $*
 cd=cd /D $*
 projects=D:\projects
+hostit=vim C:\Windows\System32\drivers\etc\hosts
 cheat=vim D:\cmder\config\aliases
 aliases=cat D:\cmder\config\aliases
 docheat=doskey /macrofile="%CMDER_ROOT%\config\aliases
